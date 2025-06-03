@@ -1,36 +1,37 @@
 # 👋 Hey there, I’m Marc Alvin Vistan Teano
 
-I’m a late-career pivoter and lifelong tech enthusiast currently rebuilding my professional presence in IT and infrastructure. My journey into tech didn’t start in a lab or a textbook—it started in a dark cinema, heart pounding, watching *Hackers (1995)*, *The Matrix (1999)*, *Sneakers (1992)*, *WarGames (1983)*, *Ghost in the Shell (1995)*, and *Johnny Mnemonic (1995)*. Those films sparked something in me—a curiosity about systems, security, and the digital frontier.
+I’m a late-career pivoter and lifelong tech enthusiast rebuilding my professional presence in IT, with a sharp focus on **infrastructure, servers, and data center operations**. My journey didn’t start in a lab or a textbook—it started in a dark cinema, heart pounding, watching *Hackers*, *The Matrix*, *Sneakers*, *Ghost in the Shell*, and *WarGames*. Those stories planted the seed. Now I’m living the grind that brings them to life—rack by rack, config by config.
 
-That spark became a fire, and eventually, a calling.
+That spark became a fire. That fire became discipline.  
+Now it’s my mission.
 
 ---
 
 ## 🎖️ Certifications
 
-📜 All my certifications are officially verified via Credly:  
+📜 All certifications are officially verified via Credly:  
 🔗 [https://www.credly.com/users/marc-alvin-teano](https://www.credly.com/users/marc-alvin-teano)
 
 ### 🛡️ CompTIA Certifications  
-<img src="https://img.shields.io/badge/CompTIA-A%2B-red?logo=CompTIA&style=flat-square" alt="CompTIA A+" />
-<img src="https://img.shields.io/badge/CompTIA-Network%2B-red?logo=CompTIA&style=flat-square" alt="Network+" />
-<img src="https://img.shields.io/badge/CompTIA-Security%2B-red?logo=CompTIA&style=flat-square" alt="Security+" />
-<img src="https://img.shields.io/badge/CompTIA-CySA%2B-red?logo=CompTIA&style=flat-square" alt="CySA+" />
-<img src="https://img.shields.io/badge/CompTIA-PenTest%2B-red?logo=CompTIA&style=flat-square" alt="PenTest+" />
-<img src="https://img.shields.io/badge/CompTIA-CASP%2B-red?logo=CompTIA&style=flat-square" alt="CASP+" />
-<img src="https://img.shields.io/badge/Server%2B-In%20Progress-blue?style=flat-square" alt="Server+ In Progress" />
+![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-red?logo=CompTIA&style=flat-square)
+![Network+](https://img.shields.io/badge/CompTIA-Network%2B-red?logo=CompTIA&style=flat-square)
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=CompTIA&style=flat-square)
+![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-red?logo=CompTIA&style=flat-square)
+![PenTest+](https://img.shields.io/badge/CompTIA-PenTest%2B-red?logo=CompTIA&style=flat-square)
+![CASP+](https://img.shields.io/badge/CompTIA-CASP%2B-red?logo=CompTIA&style=flat-square)
+![Server+](https://img.shields.io/badge/CompTIA-Server%2B-blue?style=flat-square)
 
 ### ☁️ Cloud  
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazon-aws&logoColor=white&style=flat-square" alt="AWS Cloud Practitioner" />
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazon-aws&logoColor=white&style=flat-square)
 
 ---
 
 ## 🧰 Skills & Tools
 
 ### ⚙️ Infrastructure & Systems  
-![Ubuntu](https://img.shields.io/badge/Ubuntu-Server%2020.04-E95420?logo=ubuntu&logoColor=white&style=flat-square)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-Server-E95420?logo=ubuntu&logoColor=white&style=flat-square)
 ![Windows Server](https://img.shields.io/badge/Windows-Server-blue?logo=windows&style=flat-square)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-VMs-lightgrey?logo=virtualbox&style=flat-square)
+![Proxmox](https://img.shields.io/badge/Proxmox-VE-lightgrey?logo=proxmox&style=flat-square)
 ![RAID](https://img.shields.io/badge/RAID-1/5-green?style=flat-square)
 
 ### 💻 Scripting & Automation  
@@ -39,7 +40,7 @@ That spark became a fire, and eventually, a calling.
 
 ### ☁️ Cloud & Virtualization  
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Basics-orange?logo=amazon-aws&style=flat-square)
-![VMware](https://img.shields.io/badge/VMware-Player-blue?logo=vmware&style=flat-square)
+![VMware](https://img.shields.io/badge/VMware-ESXi-blue?logo=vmware&style=flat-square)
 
 ### 🛠️ Tools & Utilities  
 ![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?logo=wireshark&style=flat-square)
@@ -49,42 +50,41 @@ That spark became a fire, and eventually, a calling.
 
 ---
 
-## 🧪 Homelab Projects (In Progress)
+## 🧪 Homelab: Dell PowerEdge T430
 
-Each of these projects is designed to simulate real-world tasks and environments I’d encounter in a data center or infrastructure support role:
+Currently building and operating an enterprise-grade lab environment to simulate real-world infrastructure and data center operations. This lab is used for deploying, testing, and maintaining servers and services across a virtual and physical hybrid stack.
 
-- **Linux VM Server Build**  
-  Deployed Ubuntu Server with a static IP, installed Apache/Nginx, configured firewall rules, and enabled logging.
+### Key Objectives
 
-- **RAID Simulation**  
-  Created a multi-disk environment using VirtualBox, built RAID 1 with `mdadm`, simulated disk failure and recovery.
+- Full server deployment and OS installation (Ubuntu Server, Proxmox VE)
+- RAID array configuration (HDD and SSD — RAID 1/5)
+- BIOS/iDRAC setup, flashing ISOs, and SHA256 verification
+- pfSense firewall setup and VLAN segmentation
+- Physical drive swaps, cable management, airflow planning
+- Remote access testing with SSH, RDP, and console management
+- Performance monitoring and logging with lightweight tools
 
-- **Automation Scripting**  
-  Bash and PowerShell scripts for user provisioning, log rotation, and scheduled backups.
-
-- **Monitoring & Reporting**  
-  Testing tools like `logwatch`, `journalctl`, and lightweight syslog to simulate uptime logs and basic incident triage.
-
-More coming soon. Repo documentation and README files in progress.
+🛠️ Status: In Progress — more documentation and repo breakdowns coming soon.
 
 ---
 
 ## 🧠 Currently Learning
 
-- Linux+ for server administration and CLI mastery  
-- Azure fundamentals and hybrid cloud environment setup  
-- Homelab scripting and deployment automation  
+- Deep dive into Linux+ and advanced server administration  
+- SC-900: Microsoft Security, Compliance, and Identity Fundamentals  
+- Azure hybrid cloud setups and cloud perimeter defense  
+- Infrastructure scripting for automation and DR response planning  
 
 ---
 
 ## 🚀 The Mission Ahead
 
-I’m not just looking for work—I’m building a return to the field that first inspired me. I bring real-world grit, a team-first mindset, and a passion for problem-solving in high-stakes environments. I’m here to:
+I’m not here just to chase certs or stack acronyms. I’m rebuilding a career with meaning—one rack, one script, one config at a time. I’m mission-focused, team-first, and ready to contribute to any data center or infrastructure support team that values grit, ownership, and technical integrity.
 
-- Reinforce reliability and resilience in technical operations  
-- Grow in server, systems, and infrastructure support roles  
-- Join a team that values precision, patience, and perseverance  
+Let’s build something that never goes down.
 
-Thanks for stopping by. Feel free to check out my projects, connect on [LinkedIn](https://www.linkedin.com/in/marcalvin-teano), or reach out if you're hiring for entry-level IT, data center, or infrastructure support roles.
+📬 Connect on [LinkedIn](https://www.linkedin.com/in/marcalvin-teano)  
+💻 Explore my repos  
+🤝 Or reach out directly if you're hiring for IT Ops, server support, or data center roles.
 
-🖖
+🖖 Stay in the fight.
