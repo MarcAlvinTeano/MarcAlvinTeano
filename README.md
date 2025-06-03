@@ -12,14 +12,14 @@ Now it’s my mission.
 📜 All certifications are officially verified via Credly:  
 🔗 [https://www.credly.com/users/marc-alvin-teano](https://www.credly.com/users/marc-alvin-teano)
 
-### 🛡️ CompTIA Certifications  
-![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-red?logo=CompTIA&style=flat-square)
+### 🛡️ CompTIA & Security Certifications  
+![A+](https://img.shields.io/badge/CompTIA-A%2B-red?logo=CompTIA&style=flat-square)
 ![Network+](https://img.shields.io/badge/CompTIA-Network%2B-red?logo=CompTIA&style=flat-square)
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=CompTIA&style=flat-square)
+![Server+](https://img.shields.io/badge/CompTIA-Server%2B-blue?logo=CompTIA&style=flat-square)
 ![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-red?logo=CompTIA&style=flat-square)
 ![PenTest+](https://img.shields.io/badge/CompTIA-PenTest%2B-red?logo=CompTIA&style=flat-square)
-![CASP+](https://img.shields.io/badge/CompTIA-CASP%2B-red?logo=CompTIA&style=flat-square)
-![Server+](https://img.shields.io/badge/CompTIA-Server%2B-blue?style=flat-square)
+![SecurityX](https://img.shields.io/badge/CompTIA-SecurityX-purple?style=flat-square)
 
 ### ☁️ Cloud  
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazon-aws&logoColor=white&style=flat-square)
