@@ -64,7 +64,11 @@ Currently building and operating an enterprise-grade lab environment to simulate
 - Remote access testing with SSH, RDP, and console management
 - Performance monitoring and logging with lightweight tools
 
-🛠️ Status: In Progress — more documentation and repo breakdowns coming soon.
+📄 **Build Log:**  
+➡️ [T430 Airgapped Proxmox Build – ZFS RAID1 Deployment](docs/t430-airgapped-homelab.md)
+
+🛠️ **Status:** Operational — hypervisor installed, ZFS mirrored, ISO vault stocked, and offline `.deb` package bank loaded. VM provisioning and GUI layering next.
+
 
 ---
 
