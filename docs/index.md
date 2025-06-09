@@ -1,12 +1,29 @@
-# 🧪 Marc Alvin Homelab
+---
+layout: default
+title: Marc Alvin’s Homelab
+---
 
-Welcome to my documented homelab project built on a Dell PowerEdge T430 — airgapped and provisioned for real-world server deployment, ZFS, and network segmentation testing.
+# 🧪 Marc Alvin’s Homelab
 
-## 🔗 Documentation
+Welcome to my personal homelab documentation site.
+
+This lab is built on a Dell PowerEdge T430 and designed for offline testing, deployment, and infrastructure hardening. Everything from server provisioning to network segmentation is logged here.
+
+---
+
+## 🔧 Current Projects
 
 - [T430 Airgapped Proxmox Build – ZFS RAID1](t430-airgapped-homelab.md)
 
-- ---
+---
 
-📁 [Back to GitHub Repo](https://github.com/remyvox/<your-repo-name>)
+## 📦 Project Goals
 
+- Mirror real-world data center practices  
+- Build and maintain offline-capable infrastructure  
+- Practice secure deployment workflows  
+- Document everything like a field log
+
+---
+
+📁 [Back to GitHub](https://github.com/MarcAlvinTeano/MarcAlvinTeano)
