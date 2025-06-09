@@ -60,8 +60,14 @@ Created `install_all_debs.sh` for repeatable, logged offline installation of `.d
 ---
 
 ### 📄 Screenshots (not included here):
-- BIOS boot menu  
-- PERC H730 config screen  
-- Proxmox ZFS mirror selection  
-- Final install summary screen  
-- Console login with IP and ZFS pool status
+### PERC H730 Configuration
+![RAID Controller Config](screenshots/perc-h730.jpg)
+
+### Proxmox ZFS Mirror Selection
+![ZFS Mirror](screenshots/zfs-config.jpg)
+
+### Final Install Summary
+![Install Summary](screenshots/install-summary.jpg)
+
+### Console Login + ZFS Pool Status
+![Login Screen](screenshots/console-login.jpg)
