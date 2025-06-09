@@ -5,3 +5,8 @@ Welcome to my documented homelab project built on a Dell PowerEdge T430 — airg
 ## 🔗 Documentation
 
 - [T430 Airgapped Proxmox Build – ZFS RAID1](t430-airgapped-homelab.md)
+
+- ---
+
+📁 [Back to GitHub Repo](https://github.com/remyvox/<your-repo-name>)
+
