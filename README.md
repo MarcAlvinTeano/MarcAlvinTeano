@@ -65,7 +65,7 @@ Currently building and operating an enterprise-grade lab environment to simulate
 - Performance monitoring and logging with lightweight tools
 
 📄 **Build Log:**  
-➡️ [T430 Airgapped Proxmox Build – ZFS RAID1 Deployment](docs/t430-airgapped-homelab.md)
+➡️ [T430 Airgapped Proxmox Build – ZFS RAID1 Deployment](docs/t430-airgapped-homelab.html)
 
 🛠️ **Status:** Operational — hypervisor installed, ZFS mirrored, ISO vault stocked, and offline `.deb` package bank loaded. VM provisioning and GUI layering next.
 
