@@ -20,6 +20,8 @@ Built on a Dell PowerEdge T430, air-gapped and virtualized via Proxmox VE. Desig
 - Security Onion 2.4: Zeek, Suricata, alert triage simulation  
 - OPNsense firewall/router for VLAN segmentation and DMZ setup
 
+📄 **Build Log**: [T430 Airgapped Homelab – Phase 1 Deployment](https://github.com/MarcAlvinTeano/MarcAlvinTeano/blob/main/docs/t430-airgapped-homelab.md)
+
 > Focus Areas: hardware setup, BIOS/iDRAC, ISO validation, syslog forwarding, service hardening, log correlation, detection testing
 
 ---
@@ -58,9 +60,10 @@ https://www.credly.com/users/marc-alvin-teano
 
 ---
 
-## 🗂️ Featured Projects (Coming Online)
+## 🗂️ Featured Projects
 
 - `foxglove-forge`: Infrastructure build logs and configuration tracking  
+- [`t430-airgapped-homelab.md`](https://github.com/MarcAlvinTeano/MarcAlvinTeano/blob/main/docs/t430-airgapped-homelab.md): Build log for Phase 1 deployment  
 - `bind9-lab-config`: Internal DNS for air-gapped lab (in progress)  
 - `opnsense-segmentation`: Firewall rules and VLAN setup (Phase 3)
 
