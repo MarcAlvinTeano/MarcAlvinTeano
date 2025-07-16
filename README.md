@@ -66,6 +66,8 @@ https://www.credly.com/users/marc-alvin-teano
 - [`t430-airgapped-homelab.md`](https://github.com/MarcAlvinTeano/MarcAlvinTeano/blob/main/docs/t430-airgapped-homelab.md): Build log for Phase 1 deployment  
 - `bind9-lab-config`: Internal DNS for air-gapped lab (in progress)  
 - `opnsense-segmentation`: Firewall rules and VLAN setup (Phase 3)
+- [`framework_13_rma_doa_display.md`](https://github.com/MarcAlvinTeano/MarcAlvinTeano/blob/main/docs/framework_13_rma_doa_display.md): Diagnostic log and escalation process for Framework Laptop 13 DOA screen replacement. Includes troubleshooting steps, communication strategies, and recovery tracking.
+
 
 ---
 
