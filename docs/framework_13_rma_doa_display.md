@@ -1,3 +1,6 @@
+
+> ⚠️ Note: This is a personal technical record of an RMA support interaction with Framework. All identifying information has been removed. Shared for transparency and as a reference model for documenting hardware issues.
+
 # 🧾 Framework Laptop RMA Log – Foxglove Zero
 
 ## 📌 Overview
